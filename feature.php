@@ -1,0 +1,1 @@
+<?php echo "Nueva línea en feature.php";
